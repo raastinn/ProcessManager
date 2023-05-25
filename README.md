@@ -24,10 +24,10 @@ How to compile and run the process manager
      make
    ```
 
-2. Run the program using "./pman" on the command line
+2. Run the program using "./processmanager" on the command line
 
    ```bash
-     ./pman
+     ./processmanager
    ```
 
 3. Here are a list of commands the program accepts:
